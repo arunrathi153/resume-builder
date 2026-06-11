@@ -112,7 +112,7 @@ resume-builder/
 
 **Arun Rathi**
 - GitHub: [@arunrathi153](https://github.com/arunrathi153)
-- Project: [Resume Builder Pro](https://arunrathi153.github.io/resume-builder)
+- Project: [Resume Builder](https://arunrathi153.github.io/resume-builder)
 
 ---
 
